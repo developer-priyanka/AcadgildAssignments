@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Test App</string>
+    <string name="loginactivity_name">Login Screen</string>
+    <string name="mainactivity_name">Click Count</string>
+
+    <string name="lable_txt">This is a lable</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login Screen</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
