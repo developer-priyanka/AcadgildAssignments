@@ -1,0 +1,16 @@
+a)
+What is menu. Write its importance.
+
+Menu are the additional options that are displayed by clicking on the Menu button of the mobil devices.It is used to save the UI space of an Activity screen.It provides the additional information options that can not be directly display on the UI screen of the application.
+
+b)
+What is options menu. When it is activated.
+Options menu are the primary collections of the menu items for an activity.It is activated when user clicks on the Menu key.
+
+c)
+What is context menu. When it is activated.
+Context menu performs the additional operation or action on any view or control of an Activity.Differnt view can have different context menu or same.Context menu are activated when user taps and hold on any view or control.It is just like right click on system's screen.
+
+d)
+What is the alternative of ActionBarActivity as its deprecated.
+We can use the AppCOmpatActivity to replace the ActionBarActivity.It provides additionl functionality of ActionBarActivity.
